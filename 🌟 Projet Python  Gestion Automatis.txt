@@ -1,7 +1,5 @@
 🌟 Projet Python : Gestion Automatisée d'une Machine à Café ☕
 
-Je suis fier de partager mon dernier projet Python : une application de gestion pour une machine à café. Ce projet combine programmation, gestion de ressources et interface utilisateur intuitive pour offrir une expérience complète.
-
 Fonctionnalités clés :
 
 Gestion des pièces insérées : L'application suit et valide les montants insérés par l'utilisateur.
@@ -24,5 +22,3 @@ Technologies utilisées :
 
 📦 Gestion des données avec des structures Python (listes, dictionnaires) pour suivre les ressources et les transactions.
 
-Ce projet m'a permis de renforcer mes compétences en développement Python, en gestion de projet et en création d'interfaces utilisateur.
-#Python #Streamlit #GestionDeProjet #Automatisation #DéveloppementLogiciel #DataManagement #UI
